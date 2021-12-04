@@ -1,7 +1,0 @@
-train: ../drive/MyDrive/train/images
-val: ../drive/MyDrive/train/images
-
-
-# Classes
-nc: 2  # number of classes
-names: ["Empty", "Full"]
